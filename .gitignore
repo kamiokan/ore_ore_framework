@@ -1,4 +1,4 @@
 # JetBrains, aka PHPStorm, IntelliJ IDEA
 .idea/*
 .DS_Store
-vendor
+vendor/*
